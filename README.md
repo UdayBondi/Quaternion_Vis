@@ -1,9 +1,9 @@
-human_3D
+Human_3D
 ========
 
-a 3D model of a human made in processing. You can move around it freely, and you can control all of it's joints.
+A 3D model of a human made in processing. You can move around it freely, and you can control all of it's joints.
 
-controls
+Controls
 -------
 press t to show or hide controls.
 
@@ -34,15 +34,11 @@ press L to load all saved angles from savedAngles.txt
 press the mouse buttom to set all joints to a random angle
 
 
-about the code
-======
-the code took a while to make, but i think i can use much of it in other projects.
-
-the human
+The Human
 ---------
 the human is made of 12 different PShapes, some displayed multible times in different location. They are all created in the program, they are based on a lot of variables, for example the height of the human, the torso to height ration, the shoulderwidth to height ratio and so on.The PShapes are moved around, rotated, and displayed by a class -- that i for some reason named taillessMonkey.
 
-the humans joints
+The Humans Joints
 ------------
 the angles of the different joints, is controlled by a class called joint. each joint object keeps track of the angle around one axis. There is in total 33 of these joint on one human. the reason i made them, was because i wanted the joints to work kind of like servos do in Ardoino. They shall move towards a target angle, with a certain angular velocity, when told to via a write(float,float) command. Rather than instantly moving there.
 
