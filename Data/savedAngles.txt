@@ -1,0 +1,66 @@
+head to neck y
+-0.15707964
+head to neck x
+-0.17453294
+eye x
+0.24434611
+eye y
+0.017453095
+lower mouth x
+0.296706
+right arm to shoulder x
+0.0
+left arm to shoulder x
+-0.0174522
+right arm to shoulder z
+-2.2340217
+left arm to shoulder z
+0.4712388
+right arm to shoulder y
+-1.5707964
+left arm to shoulder y
+-1.5707964
+right arm joint x
+-0.68067884
+left arm joint x
+-1.0821047
+right hand joint y
+-0.13962743
+left hand joint y
+1.5707964
+right hand joint z
+-0.03490659
+left hand joint z
+0.61086506
+right hand finger part 1 joint z
+0.0
+left hand finger part 1 joint z
+0.0
+right hand finger part 2 joint z
+0.0
+left hand finger part 2 joint z
+0.0
+right hand finger part 3 joint z
+0.0
+left hand finger part 3 joint z
+0.0
+right leg to torso joint x
+-0.296706
+left leg to torso joint x
+-0.26179942
+right leg to torso joint z
+-0.017453296
+left leg to torso joint z
+0.0
+right leg joint x
+0.43633226
+left leg joint x
+0.3839724
+right foot joint x
+-0.15707943
+left foot joint x
+-0.10471974
+right foot joint y
+0.0
+left foot joint y
+0.0
